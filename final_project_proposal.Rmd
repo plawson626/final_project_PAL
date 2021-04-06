@@ -1,0 +1,15 @@
+---
+title: "Final Project Proposal"
+author: "Patrick"
+date: "3/21/2021"
+output: html_document
+---
+### Personal Info
+#### Name: Patrick Lawson
+#### Degree Program: M.Sc. Marine Science
+
+### Analysis of biotic and abiotic factors to inform predictions of deep sea carbon export.
+#### I will be using a number of different data sets to model predictions of surface ocean carbon export to the deep sea. I will be using the publicly available satellite remote sensing data from NASA's Ocean Data, bathymetry data, and a package developed in R for analyzing argo float data. Additional data sets may be used for net primary productivity and carbon export from NOAA. I will be assessing the importance of a variety of abiotic conditions on chl-a concetrations and how they may affect carbon flux in the oligotrophic open ocean. Once data has been analyed and any relationships observed, I will make model predictions using linear modelind techniques learned in this class. I am interested in understanding the relationships of abiotic factors on marine primary productivity as they pertain to influencing surface carbon export to the deep ocean. This is an important mechnasism in understanding the global carbon cycle. Estimating these relationships can be vital to understanding the climate issues that we observe today. 
+
+
+
